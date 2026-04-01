@@ -1,6 +1,6 @@
 # ⏳ 桌面倒计时小工具 (Desktop Countdown Timer)
 
-[English](README_EN.md) | [简体中文](README.md) 
+[English](README_EN.md) | 简体中文
 
 这是一个基于 Python开发的轻量级桌面倒计时小部件。它具有半透明、无边框、可拖拽的特点，且运行后会自动隐藏任务栏图标，静默驻留在右下角系统托盘中，不打扰你的日常工作。
 

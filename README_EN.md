@@ -1,9 +1,9 @@
 # ⏳ Desktop Countdown Timer
-English | [简体中文](./README_CN.md)
+ [简体中文](./README_CN.md) | English
 
 This is a lightweight desktop countdown widget developed in Python. It features a translucent, borderless, and draggable interface. Once launched, it automatically hides its taskbar icon and resides silently in the system tray (bottom-right corner), ensuring it doesn't interrupt your daily workflow.
 
-**Windows EXE Download Links:**  [Github](https://github.com/Wucy0519/Timer/tags) | [谷歌云盘](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [百度网盘](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
+**Windows EXE Download Links:**  [Github](https://github.com/Wucy0519/Timer/tags) | [Google Drive](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [Baidu Netdisk](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
 
 ---
 
