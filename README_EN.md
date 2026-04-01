@@ -3,7 +3,7 @@ English | [简体中文](./README_CN.md)
 
 This is a lightweight desktop countdown widget developed in Python. It features a translucent, borderless, and draggable interface. Once launched, it automatically hides its taskbar icon and resides silently in the system tray (bottom-right corner), ensuring it doesn't interrupt your daily workflow.
 
-**Windows EXE Download Links:**  [Google Drive](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [百度网盘](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
+**Windows EXE Download Links:**  [GitHub Release](https://github.com/Wucy0519/Timer/releases/download/win-pre/Timer.exe) | [Google Drive](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [百度网盘](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
 
 ---
 
