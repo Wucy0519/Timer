@@ -40,7 +40,8 @@ Windows环境下EXE可执行文件下载链接(v0.0.0)：[Github](https://github
 │   ├── 1.png
 │   └── 2.png
 ├── python-code/           # 存放 Python 源代码
-│   ├── timer.py           # 主程序代码
+│   ├── timer-v0.0.0.py    # 主程序代码
+│   ├── timer-v0.0.1.py    
 │   └── logo.ico           # 托盘图标源文件
 └── README.md              # 项目说明文档
 ```
