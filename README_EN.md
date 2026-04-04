@@ -3,7 +3,9 @@
 
 This is a lightweight desktop countdown widget developed in Python. It features a translucent, borderless, and draggable interface. Once launched, it automatically hides its taskbar icon and resides silently in the system tray (bottom-right corner), ensuring it doesn't interrupt your daily workflow.
 
-**Windows EXE Download Links:**  [Github](https://github.com/Wucy0519/Timer/tags) | [Google Drive](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [Baidu Netdisk](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
+**Windows EXE Download Links (v0.0.0):**  [Github](https://github.com/Wucy0519/Timer/tags) | [Google Drive](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [Baidu Netdisk](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
+
+Our latest version (v0.0.1): Features are now integrated into the system tray, reducing the widget size and minimizing its desktop footprint => [Github](https://github.com/Wucy0519/Timer/releases/tag/win-Timer-v0.0.1)
 
 ---
 
@@ -38,7 +40,8 @@ To keep your taskbar clean, the program does not display a standard taskbar icon
 │   ├── 1.png
 │   └── 2.png
 ├── python-code/          # Python source code
-│   ├── timer.py          # Main program logic
+│   ├── timer-v0.0.0.py   # Main program logic
+│   ├── timer-v0.0.1.py 
 │   └── logo.ico          # Source file for the tray icon
 └── README.md             # Project documentation
 ```
