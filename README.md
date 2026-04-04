@@ -5,7 +5,8 @@
 这是一个基于 Python开发的轻量级桌面倒计时小部件。它具有半透明、无边框、可拖拽的特点，且运行后会自动隐藏任务栏图标，静默驻留在右下角系统托盘中，不打扰你的日常工作。
 
 Windows环境下EXE可执行文件下载链接(v0.0.0)：[Github](https://github.com/Wucy0519/Timer/tags) | [谷歌云盘](https://drive.google.com/file/d/1K8Xy5-gPybSjm8b4Lrwx4peJPUTRuhJm/view?usp=sharing) | [百度网盘](https://pan.baidu.com/s/1KmjRVwZq6DcGX2PSPdfjJg?pwd=c3s8)
-我们最新的版本（v0.0.1）：功能集成到小托盘，缩小了小组件的面积，占用桌面面积更小，[Github](https://github.com/Wucy0519/Timer/releases/tag/win-Timer-v0.0.1)
+
+我们最新的版本（v0.0.1）：功能集成到小托盘，缩小了小组件的面积，占用桌面面积更小 => [Github](https://github.com/Wucy0519/Timer/releases/tag/win-Timer-v0.0.1)
 
 ## ✨ 核心功能
 
